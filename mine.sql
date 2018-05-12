@@ -3986,7 +3986,7 @@ CREATE TABLE `provider` (
 
 INSERT INTO `provider` (`id`, `code`, `link`, `api_key`) VALUES
 (1, 'MANUAL', '', ''),
-(2, 'SOSMED989', 'https://xhome.me/api.php', 'ydmXoDbwzFnmTSB6OFkO');
+(2, 'SOSMED989', 'https://xhome.tech/api.php', 'ydmXoDbwzFnmTSB6OFkO');
 
 -- --------------------------------------------------------
 
